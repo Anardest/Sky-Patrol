@@ -1,5 +1,5 @@
 Installation Guide:
-Download the archive, unzip to any folder, run the Sky file Patrol.exe
+Download the archive, unzip to any folder, run the Sky Patrol.exe
 
 
 Гайд по установке:
